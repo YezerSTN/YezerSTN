@@ -29,7 +29,7 @@ I had no one to teach me, so I was self-taught and learned a lot, but I feel I d
  Hello, I really didn't know what to put about me, but I wanted to have my profile personalized :)
 
 -   :hammer_and_pick: **__Focused on__**; Cracking / Reversing / Programming
--   :pencil2: **__Learning__**; Morse Code / C ++ 
+-   :pencil2: **__Learning__**; Java / C ++ / COBOL 
 -   :seedling: **Goal**; Find an idea for a project.
 -   :heart: **Hobbies**; [OSU Player](https://osu.ppy.sh/users/26126568) / Watch Anime / Listen to Music / Content Creation.
 
