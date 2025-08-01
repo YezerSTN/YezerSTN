@@ -34,3 +34,7 @@ I had no one to teach me, so I was self-taught and learned a lot, but I feel I d
 -   :heart: **Hobbies**; [OSU Player](https://osu.ppy.sh/users/26126568) / Watch Anime / Listen to Music / Content Creation.
 
 ---
+
+<h1 align="center">
+<img src="https://count.getloli.com/@YezerSTN?name=YezerSTN&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":name" />
+</h1>
